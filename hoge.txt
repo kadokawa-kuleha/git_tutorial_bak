@@ -1,4 +1,4 @@
 master
 test
 hogehoge
-conflict
+not conflict
